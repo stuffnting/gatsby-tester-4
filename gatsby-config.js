@@ -6,5 +6,5 @@ module.exports = {
     title: `Gatsby 4`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
-}
+  plugins: ["gatsby-plugin-image", "gatsby-plugin-sharp"],
+};
